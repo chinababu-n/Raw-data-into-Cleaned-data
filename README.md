@@ -4,4 +4,14 @@ The raw transaction data was cleaned in Excel to improve consistency and prepare
 To clean and prepare raw blockchain transaction data using Excel by identifying and handling missing values, removing duplicates, standardizing formats, renaming columns, and correcting data types for accurate and effective data analysis.
 # Dataset used
 <a href="https://github.com/chinababu-n/Raw-data-into-Cleaned-data/blob/main/Data%20Cleaning.xlsx">Dataset</a>
+# Data cleaning
+Identified and handled missing values by filling with 0 or marking as "N/A".
+
+Removed duplicate rows using the “Remove Duplicates” feature.
+
+Formatted the date column uniformly to dd-mm-yyyy.
+
+Renamed column headers to lowercase and removed spaces/special characters.
+
+Checked and corrected data types for numbers, text, and dates.
 
