@@ -15,3 +15,5 @@ Renamed column headers to lowercase and removed spaces/special characters.
 
 Checked and corrected data types for numbers, text, and dates.
 
+# Cleaned data
+![cleaned data](https://github.com/user-attachments/assets/83b843a1-cc17-4801-a7a3-fd19d971aeef)
